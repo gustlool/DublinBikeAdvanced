@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DublinBikeAdvanced</string>
+    <string name="Login">Login</string>
+    <string name="minimum_password">minimum_password</string>
+    <string name="auth_failed">auth_failed</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+
+</resources>
